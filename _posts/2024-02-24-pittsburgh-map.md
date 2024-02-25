@@ -14,6 +14,7 @@ This map was made from location data in the [WIRED article by Dhruv Mehrotra and
 
 <div>{%- include extensions/map.html id='pittsburghmap' -%}</div>
 
+##### 
+Alternatively, you can [view the map in full screen](https://nickdrom.github.io/pittsburghmap.html).
 
 <!--more-->
-Alternatively, you can [view the map in full screen](https://nickdrom.github.io/pittsburghmap.html).
